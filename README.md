@@ -1,4 +1,4 @@
-# unp-project-bi-with-power-bi-_human-resource
+# Unp-Project-BI-With-Power-Bi-_Human-Resource
 worked on the HR attrition data 
 Analyzed on the Various Factors that are effecting the attrition rate of employees in the organization
 Based on  the analysis we came up with insights and suggestions that optimized workforce management with HR Employee Attrition Data Project using Power BI.
